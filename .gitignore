@@ -3,6 +3,14 @@
 !/README.md
 !/CLI.md
 !/ROUTING.md
-!/bench.py
+!/DESIGN.md
+!/HOST.md
+!/RUN.md
+!/BENCHMARK.md
+!/router.py
+!/dialogue.py
 !/router_memory.py
+!/bench.py
 !/questions.json
+!/test_router.py
+!/test_dialogue.py
